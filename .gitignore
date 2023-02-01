@@ -1,0 +1,8 @@
+.idea/
+Scripts/
+site-packages/
+__pycache__/
+Lib/
+temp/
+pyvenv.cfg
+token.txt
